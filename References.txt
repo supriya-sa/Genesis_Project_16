@@ -1,0 +1,2 @@
+https://in.mathworks.com/help/stateflow/ug/model-a-traffic-light-by-using-moore-semantics.html
+https://www.youtube.com/watch?v=O_OZKWdCixw
